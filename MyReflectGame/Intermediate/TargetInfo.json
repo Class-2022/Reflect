@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "MyReflectGame",
+			"Path": "..\\Source\\MyReflectGame.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "MyReflectGameEditor",
+			"Path": "..\\Source\\MyReflectGameEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

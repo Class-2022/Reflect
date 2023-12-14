@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\black\\documents\\unreal projects\\myreflectgame\\intermediate\\build\\win64\\unrealeditor\\inc\\myreflectgame\\uht\\tp_weaponcomponent.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\black\\documents\\unreal projects\\myreflectgame\\intermediate\\build\\win64\\x64\\myreflectgameeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\black\\documents\\unreal projects\\myreflectgame\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\myreflectgame\\definitions.myreflectgame.h",
+            "c:\\users\\black\\documents\\unreal projects\\myreflectgame\\source\\myreflectgame\\tp_weaponcomponent.h",
+            "c:\\users\\black\\documents\\unreal projects\\myreflectgame\\intermediate\\build\\win64\\unrealeditor\\inc\\myreflectgame\\uht\\tp_weaponcomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/black/Documents/Unreal Projects/MyReflectGame/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"C:/Users/black/Documents/Unreal Projects/MyReflectGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/VM/FZ5WD7NG2QCVFOMCZ779Y9.uasset",
+				"C:/Users/black/Documents/Unreal Projects/MyReflectGame/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
+				"C:/Users/black/Documents/Unreal Projects/MyReflectGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Z7/W1SXRCM1KAKBJOIZDLHZ47.uasset",
+				"C:/Users/black/Documents/Unreal Projects/MyReflectGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/8K/0OLPBOSZCPU1X7E3PCLCGF.uasset",
+				"C:/Users/black/Documents/Unreal Projects/MyReflectGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8N/ESR89YKLSTEBTEDTJOT4P3.uasset"
+			]
+		}
+	]
+}

@@ -1,0 +1,25 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-MyReflectGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\black\Documents\Unreal Projects\MyReflectGame\Intermediate\Build\Win64\x64\MyReflectGameEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"C:\Users\black\Documents\Unreal Projects\MyReflectGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyReflectGame\MyReflectGame.init.gen.cpp.obj"
+"C:\Users\black\Documents\Unreal Projects\MyReflectGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyReflectGame\MyReflectGameCharacter.gen.cpp.obj"
+"C:\Users\black\Documents\Unreal Projects\MyReflectGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyReflectGame\MyReflectGameGameMode.gen.cpp.obj"
+"C:\Users\black\Documents\Unreal Projects\MyReflectGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyReflectGame\MyReflectGamePlayerController.gen.cpp.obj"
+"C:\Users\black\Documents\Unreal Projects\MyReflectGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyReflectGame\MyReflectGameProjectile.gen.cpp.obj"
+"C:\Users\black\Documents\Unreal Projects\MyReflectGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyReflectGame\TP_PickUpComponent.gen.cpp.obj"
+"C:\Users\black\Documents\Unreal Projects\MyReflectGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyReflectGame\TP_WeaponComponent.gen.cpp.obj"
+"C:\Users\black\Documents\Unreal Projects\MyReflectGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyReflectGame\MyReflectGame.cpp.obj"
+"C:\Users\black\Documents\Unreal Projects\MyReflectGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyReflectGame\MyReflectGameCharacter.cpp.obj"
+"C:\Users\black\Documents\Unreal Projects\MyReflectGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyReflectGame\MyReflectGameGameMode.cpp.obj"
+"C:\Users\black\Documents\Unreal Projects\MyReflectGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyReflectGame\MyReflectGamePlayerController.cpp.obj"
+"C:\Users\black\Documents\Unreal Projects\MyReflectGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyReflectGame\MyReflectGameProjectile.cpp.obj"
+"C:\Users\black\Documents\Unreal Projects\MyReflectGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyReflectGame\TP_PickUpComponent.cpp.obj"
+"C:\Users\black\Documents\Unreal Projects\MyReflectGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyReflectGame\TP_WeaponComponent.cpp.obj"
+"C:\Users\black\Documents\Unreal Projects\MyReflectGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyReflectGame\Default.rc2.res"
+/OUT:"C:\Users\black\Documents\Unreal Projects\MyReflectGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyReflectGame\UnrealEditor-MyReflectGame.lib"
